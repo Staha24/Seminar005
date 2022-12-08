@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\ДЗ\Seminar05\Seminar005\homeworke38\obj\Debug\net6.0\homeworke38.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar05\Seminar005\homeworke38\obj\Debug\net6.0\homeworke38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\ДЗ\Seminar05\Seminar005\homeworke38\obj\Debug\net6.0\homeworke38.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar05\Seminar005\homeworke38\obj\Debug\net6.0\homeworke38.AssemblyInfo.cs
+C:\Users\HOME\Desktop\ДЗ\Seminar05\Seminar005\homeworke38\obj\Debug\net6.0\homeworke38.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar05\Seminar005\homeworke38\bin\Debug\net6.0\homeworke38.exe
+C:\Users\HOME\Desktop\ДЗ\Seminar05\Seminar005\homeworke38\bin\Debug\net6.0\homeworke38.deps.json
+C:\Users\HOME\Desktop\ДЗ\Seminar05\Seminar005\homeworke38\bin\Debug\net6.0\homeworke38.runtimeconfig.json
+C:\Users\HOME\Desktop\ДЗ\Seminar05\Seminar005\homeworke38\bin\Debug\net6.0\homeworke38.dll
+C:\Users\HOME\Desktop\ДЗ\Seminar05\Seminar005\homeworke38\bin\Debug\net6.0\homeworke38.pdb
+C:\Users\HOME\Desktop\ДЗ\Seminar05\Seminar005\homeworke38\obj\Debug\net6.0\homeworke38.dll
+C:\Users\HOME\Desktop\ДЗ\Seminar05\Seminar005\homeworke38\obj\Debug\net6.0\refint\homeworke38.dll
+C:\Users\HOME\Desktop\ДЗ\Seminar05\Seminar005\homeworke38\obj\Debug\net6.0\homeworke38.pdb
+C:\Users\HOME\Desktop\ДЗ\Seminar05\Seminar005\homeworke38\obj\Debug\net6.0\homeworke38.genruntimeconfig.cache
+C:\Users\HOME\Desktop\ДЗ\Seminar05\Seminar005\homeworke38\obj\Debug\net6.0\ref\homeworke38.dll
